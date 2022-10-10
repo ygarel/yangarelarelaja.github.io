@@ -1,0 +1,13 @@
+.body{
+    background-image: url(https://i.pinimg.com/564x/7e/39/0e/7e390e39df4c3cae76c2de8205031d03.jpg);
+    background-position: 100%;
+    background-size: contain 1000px;
+}
+.images img{ 
+    margin-top: 20px;
+    border-radius: 50%;
+    float: left;
+}  
+.siuuu{
+    margin-top: 20px;
+}
